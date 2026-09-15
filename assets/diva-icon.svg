@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">DIVA USM Converter</title>
+  <defs>
+    <linearGradient id="wave" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff4ea1"/>
+      <stop offset="1" stop-color="#48e0e8"/>
+    </linearGradient>
+    <linearGradient id="play" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fff4fb"/>
+      <stop offset="1" stop-color="#a8faff"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="116" fill="#151a33"/>
+  <path d="M75 267h42l24-74 38 168 41-251 42 280 40-190 32 104 31-37h72" fill="none" stroke="url(#wave)" stroke-width="29" stroke-linecap="round" stroke-linejoin="round" opacity=".84"/>
+  <path d="M212 173v313M269 126v360M326 181v305" fill="none" stroke="#fff" stroke-width="18" opacity=".12"/>
+  <path d="M211 210l139 88-139 88z" fill="url(#play)" stroke="#151a33" stroke-width="18" stroke-linejoin="round"/>
+</svg>

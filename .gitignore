@@ -1,4 +1,4 @@
-# Byte-compiled / optimized / DLL files
+﻿# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
 *$py.class
@@ -218,3 +218,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# DIVA-USM-Converter local build files
+__pycache__/
+*.py[cod]
+.build-venv/
+build/
+dist/
+vendor/
+.pytest_cache/
+.venv/
+venv/
+.env
